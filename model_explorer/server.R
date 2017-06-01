@@ -1,7 +1,6 @@
 library(shiny)
 library(dplyr)
 library(rstan)
-library(shinyBS)
 
 shinyServer(function(session, input, output) {
   
