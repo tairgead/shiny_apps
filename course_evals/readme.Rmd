@@ -1,0 +1,7 @@
+---
+output: html_document
+---
+This application will analyze the open-ended responses for your Teacher Course Evaluations and perform a by-word sentiment analysis. You will see overall positive and negative sentiments as well as the top 10 positive and top 10 negative words by question and overall. 
+
+1. **Select Excel file** - Upload an Excel file with your data.  
+2. **Click 'Go'** - We'll perform the analysis and show you some plots first. Then you can look at the tabular output as well.
